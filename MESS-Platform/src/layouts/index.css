@@ -1,0 +1,33 @@
+.brand-text {
+  font-size: 20px;
+}
+
+.column-title {
+  font-size: 24px;
+}
+
+.report {
+  font-size: 18px;
+  text-align: center;
+  transition: all 100ms ease;
+}
+
+.report span {
+  background: #f4fbff;
+  color: #2f80ed;
+  padding: 2px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.report span:hover {
+  cursor: pointer;
+}
+
+.display {
+  display: block;
+}
+
+.noDisplay {
+  display: none;
+}
